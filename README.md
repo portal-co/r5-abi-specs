@@ -15,3 +15,12 @@ Key characteristics of this emulator-native supervisor mode include:
 - **Security**: The non-standard CFI and permission models provide a security framework suited for running untrusted RISC-V code in a sandboxed environment.
 
 This non-standard approach is a deliberate design choice to meet the unique requirements of high-performance, secure, user-space RISC-V emulation.
+
+## Goals
+- [ ] Add project goals
+
+## Progress
+- [ ] Initial setup
+
+---
+*AI assisted*
